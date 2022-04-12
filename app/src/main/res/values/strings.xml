@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name"><u>Digital Dynamometer</u></string>
+    <string name="existingUser"><u>Existing Patient</u></string>
+    <string name="newUser"><u>New Patient</u></string>
+    <string name="next">Next</string>
+    <string name="enterLoginId">Enter Patient\'s Login ID</string>
+    <string name="name">Name</string>
+    <string name="doctorDetails">Doctor Details</string>
+    <string name="register">Register</string>
+    <string name="doctor_image">Doctor Image</string>
+    <string name="patientimage">patientImage</string>
+    <string name="patientDetails">Patient Details</string>
+    <string name="d_o_b">D.O.B</string>
+    <string name="yrs">___Yrs</string>
+    <string name="todo">TODO</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="right_d">Right.D</string>
+    <string name="left_d">Left.D</string>
+    <string name="occupation">Occupation</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="address">Address</string>
+    <string name="pre_treatment_readings">Pre Treatment Readings</string>
+    <string name="post_treatment_readings">Post Treatment Readings</string>
+    <string name="type_of_reading"><u>Type of reading</u></string>
+    <string name="left_hand">Left Hand</string>
+    <string name="right_hand">Right Hand</string>
+    <string name="process_finished">Process Finished!</string>
+    <string name="exit">Exit</string>
+    <string name="next_patient">Next Patient</string>
+    <string name="left_index">Left Index</string>
+    <string name="left_middle">Left Middle</string>
+    <string name="left_ring">Left Ring</string>
+    <string name="left_little">Left Little</string>
+    <string name="right_index">Right Index</string>
+    <string name="right_middle">Right Middle</string>
+    <string name="right_ring">Right Ring</string>
+    <string name="right_little">Right Little</string>
+
+</resources>
